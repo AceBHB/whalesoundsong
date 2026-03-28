@@ -4,7 +4,7 @@ clip_00021.wav,train22.aiff,False_Killer_Whale,7,21,1
 clip_00060.wav,train61.aiff,False_Killer_Whale,7,60,1
 clip_00106.wav,train107.aiff,False_Killer_Whale,7,106,1
 clip_00121.wav,train122.aiff,False_Killer_Whale,7,121,1
-clip_00151.wav,train152.aiff,False_Killer_Whale,7,151,0
+clip_00151.wav,train152.aiff,False_Killer_Whale,7,151,1
 clip_00268.wav,train269.aiff,False_Killer_Whale,7,268,1
 clip_00276.wav,train277.aiff,False_Killer_Whale,7,276,1
 clip_00283.wav,train284.aiff,False_Killer_Whale,7,283,1
@@ -23,7 +23,7 @@ clip_00605.wav,train606.aiff,False_Killer_Whale,7,605,1
 clip_00679.wav,train680.aiff,False_Killer_Whale,7,679,1
 clip_00690.wav,train691.aiff,False_Killer_Whale,7,690,1
 clip_00702.wav,train703.aiff,False_Killer_Whale,7,702,1
-clip_00729.wav,train730.aiff,False_Killer_Whale,7,729,0
+clip_00729.wav,train730.aiff,False_Killer_Whale,7,729,1
 clip_00732.wav,train733.aiff,False_Killer_Whale,7,732,1
 clip_00740.wav,train741.aiff,False_Killer_Whale,7,740,1
 clip_00743.wav,train744.aiff,False_Killer_Whale,7,743,1

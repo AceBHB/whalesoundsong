@@ -16,14 +16,14 @@ clip_00399.wav,train400.aiff,Finback_Whale,8,399,1
 clip_00426.wav,train427.aiff,Finback_Whale,8,426,1
 clip_00476.wav,train477.aiff,Finback_Whale,8,476,1
 clip_00491.wav,train492.aiff,Finback_Whale,8,491,1
-clip_00514.wav,train515.aiff,Finback_Whale,8,514,0
+clip_00514.wav,train515.aiff,Finback_Whale,8,514,1
 clip_00545.wav,train546.aiff,Finback_Whale,8,545,1
 clip_00577.wav,train578.aiff,Finback_Whale,8,577,1
 clip_00660.wav,train661.aiff,Finback_Whale,8,660,1
 clip_00670.wav,train671.aiff,Finback_Whale,8,670,1
-clip_00684.wav,train685.aiff,Finback_Whale,8,684,0
-clip_00722.wav,train723.aiff,Finback_Whale,8,722,0
-clip_00734.wav,train735.aiff,Finback_Whale,8,734,0
+clip_00684.wav,train685.aiff,Finback_Whale,8,684,1
+clip_00722.wav,train723.aiff,Finback_Whale,8,722,1
+clip_00734.wav,train735.aiff,Finback_Whale,8,734,1
 clip_00752.wav,train753.aiff,Finback_Whale,8,752,1
 clip_00900.wav,train901.aiff,Finback_Whale,8,900,0
 clip_00916.wav,train917.aiff,Finback_Whale,8,916,0
@@ -31,7 +31,7 @@ clip_00928.wav,train929.aiff,Finback_Whale,8,928,0
 clip_00978.wav,train979.aiff,Finback_Whale,8,978,1
 clip_00989.wav,train990.aiff,Finback_Whale,8,989,1
 clip_00996.wav,train997.aiff,Finback_Whale,8,996,1
-clip_01008.wav,train1009.aiff,Finback_Whale,8,1008,0
+clip_01008.wav,train1009.aiff,Finback_Whale,8,1008,1
 clip_01098.wav,train1099.aiff,Finback_Whale,8,1098,1
 clip_01136.wav,train1137.aiff,Finback_Whale,8,1136,1
 clip_01137.wav,train1138.aiff,Finback_Whale,8,1137,1
