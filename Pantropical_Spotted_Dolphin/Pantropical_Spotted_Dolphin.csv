@@ -2,7 +2,6 @@ file,train_file,species,label_id,clip_idx,has_sound
 clip_00011.wav,train12.aiff,Pantropical_Spotted_Dolphin,20,11,1
 clip_00028.wav,train29.aiff,Pantropical_Spotted_Dolphin,20,28,1
 clip_00037.wav,train38.aiff,Pantropical_Spotted_Dolphin,20,37,1
-clip_00047.wav,train48.aiff,Pantropical_Spotted_Dolphin,20,47,1
 clip_00054.wav,train55.aiff,Pantropical_Spotted_Dolphin,20,54,1
 clip_00108.wav,train109.aiff,Pantropical_Spotted_Dolphin,20,108,0
 clip_00132.wav,train133.aiff,Pantropical_Spotted_Dolphin,20,132,1
@@ -11,7 +10,7 @@ clip_00142.wav,train143.aiff,Pantropical_Spotted_Dolphin,20,142,1
 clip_00143.wav,train144.aiff,Pantropical_Spotted_Dolphin,20,143,1
 clip_00149.wav,train150.aiff,Pantropical_Spotted_Dolphin,20,149,1
 clip_00218.wav,train219.aiff,Pantropical_Spotted_Dolphin,20,218,1
-clip_00278.wav,train279.aiff,Pantropical_Spotted_Dolphin,20,278,0
+clip_00278.wav,train279.aiff,Pantropical_Spotted_Dolphin,20,278,1
 clip_00313.wav,train314.aiff,Pantropical_Spotted_Dolphin,20,313,0
 clip_00327.wav,train328.aiff,Pantropical_Spotted_Dolphin,20,327,1
 clip_00329.wav,train330.aiff,Pantropical_Spotted_Dolphin,20,329,1
@@ -30,12 +29,11 @@ clip_00762.wav,train763.aiff,Pantropical_Spotted_Dolphin,20,762,0
 clip_00791.wav,train792.aiff,Pantropical_Spotted_Dolphin,20,791,0
 clip_00836.wav,train837.aiff,Pantropical_Spotted_Dolphin,20,836,1
 clip_00885.wav,train886.aiff,Pantropical_Spotted_Dolphin,20,885,1
-clip_00945.wav,train946.aiff,Pantropical_Spotted_Dolphin,20,945,0
 clip_00986.wav,train987.aiff,Pantropical_Spotted_Dolphin,20,986,1
 clip_00992.wav,train993.aiff,Pantropical_Spotted_Dolphin,20,992,0
 clip_01002.wav,train1003.aiff,Pantropical_Spotted_Dolphin,20,1002,1
 clip_01015.wav,train1016.aiff,Pantropical_Spotted_Dolphin,20,1015,1
-clip_01032.wav,train1033.aiff,Pantropical_Spotted_Dolphin,20,1032,0
+clip_01032.wav,train1033.aiff,Pantropical_Spotted_Dolphin,20,1032,1
 clip_01036.wav,train1037.aiff,Pantropical_Spotted_Dolphin,20,1036,0
 clip_01042.wav,train1043.aiff,Pantropical_Spotted_Dolphin,20,1042,1
 clip_01077.wav,train1078.aiff,Pantropical_Spotted_Dolphin,20,1077,1

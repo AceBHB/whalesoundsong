@@ -1,9 +1,0 @@
-file,train_file,species,label_id,clip_idx,has_sound
-clip_00193.wav,train194.aiff,Leopard_Seal,14,193,1
-clip_00216.wav,train217.aiff,Leopard_Seal,14,216,1
-clip_00339.wav,train340.aiff,Leopard_Seal,14,339,1
-clip_00403.wav,train404.aiff,Leopard_Seal,14,403,1
-clip_00563.wav,train564.aiff,Leopard_Seal,14,563,1
-clip_00998.wav,train999.aiff,Leopard_Seal,14,998,1
-clip_01093.wav,train1094.aiff,Leopard_Seal,14,1093,1
-clip_01193.wav,train1194.aiff,Leopard_Seal,14,1193,1
